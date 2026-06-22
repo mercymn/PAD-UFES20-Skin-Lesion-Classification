@@ -1,0 +1,10 @@
+patient_id,lesion_id,smoke,drink,background_father,background_mother,age,pesticide,gender,skin_cancer_history,cancer_history,has_piped_water,has_sewage_system,fitspatrick,region,diameter_1,diameter_2,diagnostic,itch,grew,hurt,changed,bleed,elevation,img_id,biopsed
+PAT_1516,1765,,,,,8,,,,,,,,ARM,,,NEV,False,False,False,False,False,False,PAT_1516_1765_530.png,False
+PAT_46,881,False,False,POMERANIA,POMERANIA,55,False,FEMALE,True,True,True,True,3.0,NECK,6.0,5.0,BCC,True,True,False,True,True,True,PAT_46_881_939.png,True
+PAT_1545,1867,,,,,77,,,,,,,,FACE,,,ACK,True,False,False,False,False,False,PAT_1545_1867_547.png,False
+PAT_1989,4061,,,,,75,,,,,,,,HAND,,,ACK,True,False,False,False,False,False,PAT_1989_4061_934.png,False
+PAT_684,1302,False,True,POMERANIA,POMERANIA,79,False,MALE,True,False,False,False,1.0,FOREARM,5.0,5.0,BCC,True,True,False,False,True,True,PAT_684_1302_588.png,True
+PAT_1549,1882,,,,,53,,,,,,,,CHEST,,,SEK,True,False,False,False,False,True,PAT_1549_1882_230.png,False
+PAT_778,1471,False,True,GERMANY,ITALY,52,False,FEMALE,False,True,True,True,3.0,FACE,15.0,10.0,BCC,False,True,False,True,True,True,PAT_778_1471_835.png,True
+PAT_117,179,False,False,POMERANIA,POMERANIA,74,True,FEMALE,False,False,False,False,1.0,FACE,15.0,10.0,BCC,True,True,True,False,True,True,PAT_117_179_983.png,True
+PAT_1995,4080,,,,,68,,,,,,,,FOREARM,,,ACK,True,False,False,True,False,False,PAT_1995_4080_695.png,False
